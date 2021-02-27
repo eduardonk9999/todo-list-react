@@ -6,9 +6,6 @@ import ListIten from '../List/index';
 
 
 export default function Main() {
-
- 
-
   return (
     <>
       <Container>
