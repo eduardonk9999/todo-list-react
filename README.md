@@ -1,6 +1,8 @@
 # TODO LIST
 ![](https://github.com/eduardonk9999/todo-list-react/blob/master/todoimg.png "Logo") 
 
+# Acesse o Site:
+https://todolistappedu.netlify.app/
 
 # Para rodar o projeto:
 
