@@ -5,7 +5,44 @@ export const Container = styled.main`
   margin: 0 auto;
   display: block;
   width: 90%;
+
   
+  ul{
+    list-style: none;
+    margin-top: 40px;
+   li{
+    width: 100%;
+    max-width: 300px;
+    padding: 15px 10px;
+    margin-bottom: 20px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+
+    background: #393942;
+
+    @media(max-width: 768px){
+      margin: 20px auto;
+    }
+    span{
+      color: #fff;
+      font-size: 20px;
+    }
+    button{
+      background: #3B59C7;
+      color: #fff;
+      font-size: 18px;
+      font-weight: bold;
+      border: 0;
+      width: 36px;
+      height: 36px;
+      border-radius: 100px;
+      
+    }
+   }
+  }
 
   form{
     
@@ -54,8 +91,7 @@ export const Container = styled.main`
       }
 
       @media(max-width: 768px){
-          margin-left: 0px;
-          margin-top: 15px;
+          margin: 20px auto;
       }
     }
   }

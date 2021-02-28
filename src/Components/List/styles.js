@@ -8,6 +8,7 @@ export const List = styled.ul`
     width: 100%;
     max-width: 300px;
     padding: 15px 10px;
+    margin-bottom: 20px;
 
     display: flex;
     justify-content: space-between;
@@ -29,6 +30,6 @@ export const List = styled.ul`
       width: 36px;
       height: 36px;
       border-radius: 100px;
-    }
+      
   }
 `;
