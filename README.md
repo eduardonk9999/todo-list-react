@@ -1,4 +1,6 @@
 # TODO LIST
+![](https://github.com/eduardonk9999/todo-list-react/blob/master/todoimg.png "Logo") 
+
 
 # Para rodar o projeto:
 
@@ -12,4 +14,3 @@ $ yarn i
 $ yarn start
 
 
-![](https://github.com/eduardonk9999/todo-list-react/blob/master/todoimg.png "Logo") 
