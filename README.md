@@ -1,6 +1,10 @@
 # TODO LIST
 ![](https://github.com/eduardonk9999/todo-list-react/blob/master/todoimg.png "Logo") 
 
+### 🛠 Tecnologias
+- React JS
+- Styled Components
+
 # Acesse o Site:
 https://todolistappedu.netlify.app/
 
