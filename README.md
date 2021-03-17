@@ -18,5 +18,3 @@ $ yarn i
 
 <h3>Execute a aplicação</h3>
 $ yarn start
-
-
